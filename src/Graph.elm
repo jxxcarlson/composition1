@@ -1,8 +1,10 @@
 module Graph exposing (..)
 
 {-| Module Graph provides a set of functions for
-constructing simple graphs, give a sequence of points
-like
+constructing simple graphs and shapes (see further down 
+for the latte).
+
+Re graphs, given a sequence of points like
 
   data = [(0.0, 0.0), (5.0, 7.0), (8.0, 2.0), ...]
 
